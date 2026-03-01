@@ -1,3 +1,4 @@
+// Homework 2 question 3
 #include <iostream>
 using namespace std;
 #include <string>
